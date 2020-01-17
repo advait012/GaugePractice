@@ -9,10 +9,10 @@
 * Fill the suggestion field
 * Select the dropdown
 * Select the checkbox
-//* Switch to window
-//* Switch to tab
 * Handle the Alert
 * Fetch the Course Name 
+* Switch to window
+* Switch to tab
 
 
 
